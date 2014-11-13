@@ -1,4 +1,4 @@
-# Create a Scratch Account
+# Create a Scratch Account!!
 ### Go to <a href="http://scratch.mit.edu" target=new>Scratch</a> and click on "Join Scratch"
 
 ![Create Account](create_account_1.png)
@@ -20,8 +20,25 @@ Add your username below using the format Last Name, First Name: Username
 To edit this file, scroll back up to the top of the screen and select the "pen" that is between the icon of the computer and trash can.
 
 
-1) Kuehn, Michael: mkuehn10
-2.)Davis, James: jdavisaol
-3) Walker, Tyler: tmwalker631
+1) Kuehn, Michael: mkuehn10   
+2) Davis, James: jdavisaol   
+3) Walker, Tyler: tmwalker631   
+4) Mark, Schlies: Mschlies   
+5) West, Joseph: Failord_Studious   
+6) Wiles, Stephen: swiles   
+7) Basham, Chris: Archrath   
+8) Casto, Samuel: SamCasto   
+9) Davis, Alyson: aekii   
+10) Filipiak, Chance: CFilipiak   
+11) Holstine, Lucas: lholstine   
+12) Holstine, William: wholstine    
+13) Solt, Terry: Tsolt   
+14) Thomas, White: Mehiswow   
+15) Atik, Daniel: datik   
+16) Siders, Connor : csiders
+17) Lamb, Devan : DMlamb 
+18) Kulkarni, Michael: mkulkarnigmail    
+19) Parog, Michael: mparog210   
+
 
 ## Go to [Getting Started With Scratch](GettingStartedWithScratch.md)
